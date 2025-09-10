@@ -10,10 +10,13 @@ A student at belgium campus currently studying a bachelours of computing at Belg
   A secure end-to-end solution for digitally signing consent forms, storing them in a database, and sending them to the right recipients.  
   - 🔗 [Frontend](https://github.com/ReinardPieters/ConsentForm-Frontend) – Flutter app for form filling, signing, and user interaction  
   - 🔗 [Backend](https://github.com/ReinardPieters/ConsentForm-Backend) – Node.js + MongoDB server for form storage, email distribution, and security
+    
 - 🧑‍🎓 [**BC Student Wellness Portal 1**](https://github.com/ReinardPieters/BCStudentWellnessSystem)  
   Java + JSP + PostgreSQL system for student registration, secure login, and session management.
+  
 - 💻 [**BC Student Wellness – Milestone 2**](https://github.com/ReinardPieters/BCWellnessMilestone2)  
   Java Swing app with MVC + Derby DB for appointments, counselors, and feedback management.
+  
 ## 👨‍💻 About Me
 - 🎓 Student at Belgium Campus ITversity, specializing in Software Engineering  
 - 💡 Interested in VR/AR, AI/ML, and full-stack development  
