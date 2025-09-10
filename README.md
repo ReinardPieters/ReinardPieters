@@ -33,4 +33,4 @@ A student at belgium campus currently studying a bachelours of computing at Belg
 **Other:** Git, Docker, AWS
 
 ## 🌐 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/reinard-pieters) | [Portfolio](https://yourwebsite.com) | [Email](reinardpiet@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/reinard-pieters) | [Portfolio](https://reinardpieters.github.io/#cv) | [Email](reinardpiet@gmail.com)
