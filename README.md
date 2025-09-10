@@ -22,3 +22,6 @@ A student at belgium campus currently studying a bachelours of computing at Belg
 **Frameworks & Tools:** Unity, Flutter, Spring Boot, Node.js, React  
 **Databases:** PostgreSQL, MongoDB, SQLserver
 **Other:** Git, Docker, AWS
+
+## 🌐 Connect with Me
+[LinkedIn](www.linkedin.com/in/reinard-pieters) | [Portfolio](https://yourwebsite.com) | [Email](reinardpiet@gmail.com)
