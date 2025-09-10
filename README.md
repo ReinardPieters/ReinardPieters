@@ -1,7 +1,6 @@
 ## Hi there 👋, I am Reinard
 A student at belgium campus currently studying a bachelours of computing at Belgium campus specializing in software engineering.
 
-## 🔭 Favoite projects:
 ## 🔭 Favorite Projects
 
 - 🎨 **[VR CAD Software](https://github.com/ReinardPieters/VR_Interactive_Modelling_Application)**  
@@ -10,5 +9,7 @@ A student at belgium campus currently studying a bachelours of computing at Belg
 - 🌐 **[CampusLearn Platform](https://github.com/ReinardPieters/BCStudentWellnessSystem)**  
   Developing a community-driven web platform where students can ask questions, share learning materials, and get support from tutors and admins.  
 
-- ✍️ **[Digital Consent System](https://github.com/yourusername/consent-system)**  
-  Complete solution for securely signing digital consent forms, storing them in a database, and sending them to specified recipients in context.  
+- ✍️ **[Digital Consent System]**  
+  A secure end-to-end solution for digitally signing consent forms, storing them in a database, and sending them to the right recipients.  
+  - 🔗 [Frontend](https://github.com/ReinardPieters/ConsentForm-Frontend) – Flutter app for form filling, signing, and user interaction  
+  - 🔗 [Backend](https://github.com/ReinardPieters/ConsentForm-Backend) – Node.js + MongoDB server for form storage, email distribution, and security
