@@ -17,6 +17,9 @@ A student at belgium campus currently studying a bachelours of computing at Belg
 - 💻 [**BC Student Wellness – Milestone 2**](https://github.com/ReinardPieters/BCWellnessMilestone2)  
   Java Swing app with MVC + Derby DB for appointments, counselors, and feedback management.
   
+- 🌦️ [**Weather Prediction (ML)**](https://github.com/ReinardPieters/MLG382_Assignment_2)  
+  Web app using regression models to predict weather from temperature, humidity, and wind speed.
+  
 ## 👨‍💻 About Me
 - 🎓 Student at Belgium Campus ITversity, specializing in Software Engineering  
 - 💡 Interested in VR/AR, AI/ML, and full-stack development  
